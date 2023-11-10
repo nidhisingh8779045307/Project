@@ -31,7 +31,7 @@
     backface-visibility: hidden;
 }
 .front{
-    background: url(img/my.jpeg);
+    background: url(img/user.png);
     background-size: cover;
     background-position: center;
     padding: 60px 40px;
